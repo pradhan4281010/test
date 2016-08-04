@@ -1,0 +1,5 @@
+this is sample of text for git
+
+
+welcomr=e to the eorld of magic
+
